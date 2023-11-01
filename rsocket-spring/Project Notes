@@ -1,0 +1,13 @@
+satyajit@satyajit-ThinkPad-T420:~/Code/rSocket/rsocket-starter-poc/rsocket-spring/nginx$ sudo apt-get install nginx
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ nginx : Depends: libssl1.1 (>= 1.1.1) but it is not installable
+E: Unable to correct problems, you have held broken packages.
